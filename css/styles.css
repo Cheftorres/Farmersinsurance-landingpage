@@ -1,0 +1,55 @@
+/*GLOBAL STYLES*/
+
+body {
+        margin:0px;
+        background: center bottom no-repeat,linear-gradient(to right,#003087 0,#0054ed 44%,#0042ba 75%,#003087 100%);
+}
+
+a{}
+
+h1{}
+
+p{}
+
+header {
+        height:200px;
+            background: center bottom no-repeat,linear-gradient(to right,#003087 0,#0054ed 44%,#0042ba 75%,#003087 100%);
+}
+
+main {
+       width:90%;
+      margin:20px auto;
+      height:600px;
+      background-color:#0033CC;
+      color: white;
+      background: center bottom no-repeat,linear-gradient(to right,#003087 0,#0054ed 44%,#0042ba 75%,#003087 100%);
+}
+
+footer {
+        height:150px;
+        background: center bottom no-repeat,linear-gradient(to right,#003087 0,#0054ed 44%,#0042ba 75%,#003087 100%);
+        color: white;
+        text-align:center;
+        padding:40px;
+}
+
+/* ================BUTTON STYLES============*/
+
+.button {
+        background: linear-gradient(to bottom,#e01933 0,#e01933 50%,#b30032 51%,#b30032 100%);
+        padding:20px 15px;
+        border-radius:10px 6px;
+        text-decoration:none;
+}
+
+.button:hover{
+            background-color:#980000;
+            box-shadow: 0 3px 2px -1px rgba(0,0,0,.5);
+}
+
+/*Other styles*/
+
+.imageCenter {
+    display:block;
+    margin:0px auto ;
+}
